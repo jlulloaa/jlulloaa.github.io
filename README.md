@@ -1,2 +1,2 @@
 # jlulloaa.github.io
-assignment 1 - MIT xPRO
+Jose Ulloa's public repository 
