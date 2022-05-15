@@ -376,7 +376,7 @@ section .container {
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
-.counts {
+/* .counts {
   padding: 70px 0 60px;
 }
 .counts .count-box {
@@ -409,12 +409,12 @@ section .container {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
-.skills .progress {
+/* .skills .progress {
   height: 60px;
   display: block;
   background: none;
@@ -441,12 +441,12 @@ section .container {
   height: 10px;
   transition: 0.9s;
   background-color: #18d26e;
-}
+} */
 
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
-.interests .icon-box {
+/* .interests .icon-box {
   display: flex;
   align-items: center;
   padding: 20px;
@@ -468,12 +468,12 @@ section .container {
 }
 .interests .icon-box:hover {
   background: rgba(255, 255, 255, 0.12);
-}
+} */
 
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials .testimonials-carousel, .testimonials .testimonials-slider {
+/* .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
 .testimonials .testimonial-item {
@@ -536,12 +536,12 @@ section .container {
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #18d26e;
-}
+} */
 
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
-.resume .resume-title {
+/* .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
@@ -590,12 +590,12 @@ section .container {
   top: 0;
   background: #18d26e;
   border: 2px solid #18d26e;
-}
+} */
 
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-.services .icon-box {
+/* .services .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
   padding: 80px 20px;
@@ -658,7 +658,7 @@ section .container {
 }
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
   color: #fff;
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio
