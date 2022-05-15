@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'info@isandex.com';
+  // $receiving_email_address = 'info@isandex.com';
 
   // if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     // include( $php_email_form );
@@ -16,10 +16,10 @@
   // }
   
 
-  if($_POST["message"]) {
-  mail($_POST['email'], $_POST['subject'],
-  $_POST['message']. "From: "+$_POST['email']);
-  }
+  // if($_POST["message"]) {
+  // mail($_POST['email'], $_POST['subject'],
+  // $_POST['message']. "From: "+$_POST['email']);
+  // }
   
   
   // $contact = new PHP_Email_Form;
