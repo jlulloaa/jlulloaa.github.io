@@ -1,17 +1,28 @@
-# Introduction
+# Project Title (with a fancy format)
+<a href="" target="_blank"> <img src="https://img.shields.io/github/license/jlulloaa/pacmen?style=plastic"></a>
 
-hello
+<a href="https://github.com/jlulloaa/pacmen"> <img src="https://img.shields.io/amo/rating/dustman?style=plastic"></a>
 
-# Details
-blah, blah, blah...
+<!-- https://github.com/jlulloaa/pacmen"> <img src="https://img.shields.io/amo/stars/dustman?style=plastic"></a> -->
+# Description of the Project (minimum of 20 words)
+https://img.shields.io/amo/stars/dustman?label=stars&style=plastic
+# File manifest
 
-# Final
-bye
-***
-# Bootstrap details
-<table>
-<tr> <th>Template Name</th><td>Personal</td> </tr>
-<tr> <th>Template URL</th><td> https://bootstrapmade.com/personal-free-resume-bootstrap-template/ </td></tr>
-<tr><th>Author</th><td> BootstrapMade.com</td></tr>
-<tr><th>License</th><td>https://bootstrapmade.com/license/ </td></tr>
-</table>
+# How to Run
+This is information someone would use to get started running your project on their machine. 
+
+# Roadmap of future improvements
+This should be a few sentences describing what you plan to work on next in this repository. 
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# Credits
+This software uses the following:
+(e.g. open source packages, links to other people's code snipet, images, etc.)
+
+# License information
+This project is licensed under the terms of <a href="https://github.com/jlulloaa/pacmen/blob/main/LICENSE" target="_blank"> MIT license </a>
+
