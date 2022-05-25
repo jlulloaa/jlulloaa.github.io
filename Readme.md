@@ -6,8 +6,9 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jlulloaa/jlulloaa.github.io?style=plastic">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jlulloaa/jlulloaa.github.io?color=yellow&style=plastic">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jlulloaa/jlulloaa.github.io?style=plastic">
-  <a href="https://github.com/jlulloaa/jlulloaa.github.io/blob/main/LICENSE" target="_blank"> <img src="https://img.shields.io/github/license/jlulloaa/jlulloaa.github.io?style=plastic"></a>
+  <a href="https://github.com/jlulloaa/jlulloaa.github.io/blob/main/LICENSE" target="_blank"> <img alt="GitHub License" src="https://img.shields.io/github/license/jlulloaa/jlulloaa.github.io?style=plastic"></a>
 </p>
+
 
 # Description of the Project (minimum of 20 words)
 
