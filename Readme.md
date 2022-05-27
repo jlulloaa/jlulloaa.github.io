@@ -10,8 +10,7 @@
 </p>
 
 
-# Description of the Project (minimum of 20 words)
-
+# Description of the Project
 This is the repository of my landing page. If you want to see my work, please follow [this link](https://jlulloaa.github.io)
 
 # License information
